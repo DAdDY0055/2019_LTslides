@@ -4,7 +4,7 @@
 .reveal h4,
 .reveal h5,
 .reveal h6 {
-  text-transform: capitalize;
+  text-transform: none;
   word-wrap: break-word;
 }
 
