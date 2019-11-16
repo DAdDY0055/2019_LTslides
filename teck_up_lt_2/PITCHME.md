@@ -1,4 +1,4 @@
-## 令和になったので<span style="text-transform:none">Alibaba</span>始めました。
+## 令和になったので<br><span style="text-transform:none">Alibaba</span>始めました。
 ---
 
 ### 自己紹介
@@ -40,13 +40,13 @@
 
 ---
 
-### [シンガポールに本社を置く、シンガポールの会社(※国際事業)](https://jp.alibabacloud.com/about?spm=a21mg.8121077.1209376.dcube3.33683e13aqoofx)
+### [シンガポールに本社を置く、<br>シンガポールの会社(※国際事業)](https://jp.alibabacloud.com/about?spm=a21mg.8121077.1209376.dcube3.33683e13aqoofx)
 
 <img width="534" alt="スクリーンショット 2019-11-16 12 08 25" src="https://user-images.githubusercontent.com/38724804/68987932-ad98fd00-0872-11ea-9996-2a523f3d6281.png">
 
 ---
 
-### 国際標準のセキュリティ基準を満たす
+### 国際標準の<br>セキュリティ基準を満たす
 
 <img width="1422" alt="スクリーンショット 2019-11-16 12 10 24" src="https://user-images.githubusercontent.com/38724804/68987165-7b839d00-086a-11ea-9850-c27da46e6f17.png">
 
@@ -69,7 +69,7 @@
 
 <img width="50%" alt="スクリーンショット 2019-11-16 12 26 38" src="https://user-images.githubusercontent.com/38724804/68987362-80495080-086c-11ea-8b44-3edf20baf209.png">
 
-【参考】2018年の楽天の年間日本国内流通総額が3.4兆円
+【参考】楽天の2018年<br>年間日本国内流通総額が3.4兆円
 
 - 2018年のピークトランザクションは秒間49.1万回
 
@@ -92,7 +92,7 @@
 +++
 
   - アリババの世界最大のECで使われていて、日々大量の学習を行っているモデルを利用可能
-  - [すでにニトリが本番サービスデ利用中](https://www.sbcloud.co.jp/entry/2019/08/05/SoftBankWorld2019/)、メルカリも検証中
+  - [すでにニトリが本番サービスで利用中](https://www.sbcloud.co.jp/entry/2019/08/05/SoftBankWorld2019/)、メルカリも検証中
 
 ---
 
@@ -108,7 +108,7 @@
 - ApsaraVideo Live
   - 動画配信
     - ストリーミングを流すだけで、エンコーディング(画質・ビデオ形式変換)、CDNによる配信までやってくれる
-  - 17ライブ、タオバオライブ
+  - 17ライブ、タオバオライブなどで利用されている
 
 ---
 
