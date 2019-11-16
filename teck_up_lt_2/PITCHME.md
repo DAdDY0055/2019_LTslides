@@ -1,5 +1,4 @@
-## 令和になったのでAlibaba始めました。
-
+## 令和になったので<span style="text-transform:none">Alibaba</span>始めました。
 ---
 
 ### 自己紹介
@@ -18,26 +17,26 @@
 後日質問・指摘等あればこちらへどうぞ
 
 ---
-### Alibaba Cloudとは
+### <span style="text-transform:none">Alibaba Cloud</span>とは
 - Alibabaグループのサービスを支えるインフラ
 
 <img width="70%" alt="Alibaba Groupのサービス一覧" src="https://user-images.githubusercontent.com/38724804/68986931-c0f29b00-0867-11ea-946f-86a83ef83469.png">
 
 +++
-### Alibaba Groupの主なサービス
+### <span style="text-transform:none">Alibaba Groupの主なサービス</span>
 
-#### Tmall(天猫)/Taobao(タオバオ)
+#### <span style="text-transform:none">Tmall(天猫)/Taobao(タオバオ)</span>
 - 世界最大級ECプラットフォーム
 
-#### Alipay(支付宝)
+#### <span style="text-transform:none">Alipay(支付宝)</span>
 - モバイル決済
 
-#### Youku(優酷)
+#### <span style="text-transform:none">Youku(優酷)</span>
 - エンターテイメント
 
 ---
 
-### Alibaba Cloudってどこの会社？
+### <span style="text-transform:none">Alibaba Cloudってどこの会社？</span>
 
 ---
 
@@ -59,7 +58,7 @@
 
 ---
 
-### 全世界においてもAzureに次ぐ3位！
+### 全世界においても<span style="text-transform:none">Azure</span>に次ぐ3位！
 
 <img width="1422" alt="IaaS Share 2018" src="https://user-images.githubusercontent.com/38724804/68987256-7ecb5880-086b-11ea-8848-cfbc5ea42691.gif">
 
@@ -76,7 +75,7 @@
 
 ---
 
-### Alibaba Cloudのサービス
+### <span style="text-transform:none">Alibaba Cloud</span>のサービス
 
 <img width="1422" alt="Alibaba Cloud サービス一覧" src="https://user-images.githubusercontent.com/38724804/68987251-75da8700-086b-11ea-9e98-7ecb086f40c6.jpg">
 
