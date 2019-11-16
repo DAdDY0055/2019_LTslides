@@ -8,4 +8,4 @@ footnote : "© 2019 Taku."
 slide-number: true
 
 # カスタムCSSファイル
-theme-override : ../assets/PITCHME.css
+theme-override : ./PITCHME.css

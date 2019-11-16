@@ -21,8 +21,7 @@
 ### Alibaba Cloudとは
 - Alibabaグループのサービスを支えるインフラ
 
-![Alibaba Groupのサービス一覧](https://user-images.githubusercontent.com/38724804/68986931-c0f29b00-0867-11ea-946f-86a83ef83469.png)
-
+<img width="70%" alt="Alibaba Groupのサービス一覧" src="https://user-images.githubusercontent.com/38724804/68986931-c0f29b00-0867-11ea-946f-86a83ef83469.png">
 
 +++
 ### Alibaba Groupの主なサービス
