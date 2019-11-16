@@ -1,0 +1,11 @@
+#テーマの設定
+theme : sky
+
+#フットノートの設定
+footnote : "© 2019 Taku."
+
+#スライドのページ数表示の設定
+slide-number: true
+
+# カスタムCSSファイル
+theme-override : ../assets/PITCHME.css
