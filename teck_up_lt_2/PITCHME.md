@@ -38,7 +38,13 @@
 
 ---
 
-#### [シンガポールに本社を置く、シンガポールの会社(※国際事業)](https://jp.alibabacloud.com/about?spm=a21mg.8121077.1209376.dcube3.33683e13aqoofx)
+### Alibaba Cloudってどこの会社？
+
+---
+
+### [シンガポールに本社を置く、シンガポールの会社(※国際事業)](https://jp.alibabacloud.com/about?spm=a21mg.8121077.1209376.dcube3.33683e13aqoofx)
+
+<img width="534" alt="スクリーンショット 2019-11-16 12 08 25" src="https://user-images.githubusercontent.com/38724804/68987932-ad98fd00-0872-11ea-9996-2a523f3d6281.png">
 
 ---
 
@@ -50,30 +56,31 @@
 
 ### APEC圏では2年連続シェア1位
 
-![Alibaba Cloud APEC Share](https://user-images.githubusercontent.com/38724804/68987211-f64cb800-086a-11ea-8b71-8ab63cae1272.jpg)
+<img width="1422" alt="Alibaba Cloud APEC Share" src="https://user-images.githubusercontent.com/38724804/68987211-f64cb800-086a-11ea-8b71-8ab63cae1272.jpg">
 
 ---
 
 ### 全世界においてもAzureに次ぐ3位！
 
-![IaaS Share 2018](https://user-images.githubusercontent.com/38724804/68987256-7ecb5880-086b-11ea-8848-cfbc5ea42691.gif)
+<img width="1422" alt="IaaS Share 2018" src="https://user-images.githubusercontent.com/38724804/68987256-7ecb5880-086b-11ea-8848-cfbc5ea42691.gif">
 
 
 ---
 
 ### 独身の日に耐えるインフラ
 
-<img width="814" alt="スクリーンショット 2019-11-16 12 26 38" src="https://user-images.githubusercontent.com/38724804/68987362-80495080-086c-11ea-8b44-3edf20baf209.png">
+<img width="50%" alt="スクリーンショット 2019-11-16 12 26 38" src="https://user-images.githubusercontent.com/38724804/68987362-80495080-086c-11ea-8b44-3edf20baf209.png">
+
+【参考】2018年の楽天の年間日本国内流通総額が3.4兆円
 
 - 2018年のピークトランザクションは秒間49.1万回
-
-　【参考】2018年の楽天の年間日本国内流通総額が3.4兆円
 
 ---
 
 ### Alibaba Cloudのサービス
 
-![Alibaba Cloud サービス一覧](https://user-images.githubusercontent.com/38724804/68987251-75da8700-086b-11ea-9e98-7ecb086f40c6.jpg)
+<img width="1422" alt="Alibaba Cloud サービス一覧" src="https://user-images.githubusercontent.com/38724804/68987251-75da8700-086b-11ea-9e98-7ecb086f40c6.jpg">
+
 
 ---
 
@@ -81,11 +88,13 @@
 
 - Image Search
   - 画像をアップロードするだけで類似画像検索ができるサービス
-    - アリババの世界最大のECで使われていて、日々大量の学習を行っているモデルを利用可能
-  - [すでにニトリが本番サービスデ利用中](https://www.sbcloud.co.jp/entry/2019/08/05/SoftBankWorld2019/)、メルカリも検証中
 
 ![Image Serch使用例](https://user-images.githubusercontent.com/38724804/68987764-5f82fa00-0870-11ea-835a-9d77281a8c72.png)
 
++++
+
+  - アリババの世界最大のECで使われていて、日々大量の学習を行っているモデルを利用可能
+  - [すでにニトリが本番サービスデ利用中](https://www.sbcloud.co.jp/entry/2019/08/05/SoftBankWorld2019/)、メルカリも検証中
 
 ---
 
